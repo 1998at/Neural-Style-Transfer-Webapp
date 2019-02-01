@@ -8,9 +8,9 @@ Applying the Neural Style transfer using a Convolutional Neural Network and wrap
 
 
 ## To run the app 
-1.Clone the Repository
-2.Install all dependencies in your environment using pip or conda
-3.Run the following
+- Clone the Repository
+- Install all dependencies in your environment using pip or conda
+- Run the following
 ```
 python app.py 
 ```
