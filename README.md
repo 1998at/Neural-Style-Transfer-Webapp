@@ -1,5 +1,5 @@
 # Neural-Style-Transfer-Webapp
-[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![PyPI](https://img.shields.io/badge/python-3.6-blue.svg)]()
 [![HitCount](http://hits.dwyl.io/at1998/Neural-Style-Transfer-Webapp.svg)](http://hits.dwyl.io/at1998/Neural-Style-Transfer-Webapp)
 
 
