@@ -8,7 +8,10 @@ Applying the Neural Style transfer using a Convolutional Neural Network and wrap
 
 
 ## To run the app 
+1.Clone the Repository
+2.Install all dependencies in your environment using pip or conda
+3.Run the following
 ```
 python app.py 
 ```
-It will automatically create a FlaskServer on your machine and will return a page to upload the image you want to apply the style to
+It will automatically create a FlaskServer on your machine and will return a page to upload the image you want to apply the style to and the image output will be shown and stored in the static folder of this 
