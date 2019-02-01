@@ -3,7 +3,8 @@ Applying the Neural Style transfer using a Convolutional Neural Network and wrap
 
 
 
-# To run the app 
+## To run the app 
+```
 python app.py 
-
+```
 It will automatically create a FlaskServer on your machine and will return a page to upload the image you want to apply the style to
