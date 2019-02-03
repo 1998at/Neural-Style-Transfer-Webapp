@@ -18,4 +18,4 @@ It will automatically create a FlaskServer on your machine and will return a pag
 <br>
 
 ### Outputs 
-![Results](static/1.jpg)
+![Results](static/Image-1.jpg)
